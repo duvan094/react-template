@@ -1,3 +1,9 @@
+# React template
+This is a basic React Next template to get started easily with a page with router.
+
+
+## Below is basic auto generated readme
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
