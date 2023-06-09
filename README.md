@@ -1,5 +1,8 @@
 # React template
-This is a basic React Next template to get started easily with a page with router.
+This is a basic React Next template to get started easily with a page with router 🛠️
+
+
+
 
 
 ## Below is basic auto generated readme
